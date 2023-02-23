@@ -1,5 +1,5 @@
 # MiniProjects-with-Javascript
-Little projects made with Javascript
+Little projects made with Vanilla Javascript
 ## Cards Playground
 ![image](https://github.com/IGprojects/MiniProjects-with-Javascript/blob/main/Assets/Captura1.png)
 ## Contador
